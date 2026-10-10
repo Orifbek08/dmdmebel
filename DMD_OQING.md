@@ -21,7 +21,7 @@ Yangi chatga shu fayl bilan o'tiladi.
 - Tushum = «Цена» yig'indisi («Цена» — sotuvning umumiy summasi, dona narxi emas).
 - Miqdor («Число») birligi bo'yicha alohida sanaladi: шт va кв qo'shilmaydi.
 - `План`: oyma-oy bloklar (sana → Продукт | План | Факт | Колди). Plan varaqdan olinadi, **fakt esa `База`dan hisoblanadi** (o'sha oy, mahsulot nomi bo'yicha). Varaqdagi «Факт» bilan farq bo'lsa panel ogohlantiradi.
-- Pul birligi: `$` (`index.html` → `PUL_OLDI`). Tasdiqlanishi kerak.
+- Pul birligi: tojik somonisi, «смн» (`index.html` → `PUL_KETI`).
 
 ## Havolalar va versiyalar
 - `API_SOTUV` (`index.html`): ulangan (2026-10-10). Jonli javob hali tekshirilmagan.
