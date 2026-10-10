@@ -24,11 +24,10 @@ Yangi chatga shu fayl bilan o'tiladi.
 - Pul birligi: `$` (`index.html` → `PUL_OLDI`). Tasdiqlanishi kerak.
 
 ## Havolalar va versiyalar
-- `API_SOTUV` (`index.html`): **hali qo'yilmagan** — panel namuna ma'lumot ko'rsatadi.
+- `API_SOTUV` (`index.html`): ulangan (2026-10-10). Jonli javob hali tekshirilmagan.
 - `DMD-Sotuv.gs`: v1.0
 
 ## Keyingi qadamlar
-1. `DMD-Sotuv.gs` ni deploy qilish → `sinov()` natijasi va `/exec` havolasi.
-2. Havolani `API_SOTUV` ga qo'yish, jonli ma'lumot bilan tekshirish.
+1. Jonli ma'lumotni brauzerda tekshirish (`/exec?amal=tekshir`, `sinov()` natijasi).
 3. Маркетинг / Молия / Склад jadvallari tayyor bo'lganda ulash.
 4. Kerak bo'lsa — PIN bilan kirish (hozircha o'chiq).
